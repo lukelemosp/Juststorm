@@ -29,11 +29,6 @@ My name is Lucas Lemos, a brazilian information technology student.
 </a>
 </br>
 </br>
-<a href="https://twitter.com/LukzStorm" target="_blank">
-<img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="max-width:100%;">
-</a>
-</br>
-</br>
 <a href="https://www.reddit.com/user/Juststorm14" target="_blank">
 <img align="center" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" style="max-width:100%;">
 </a>
