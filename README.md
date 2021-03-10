@@ -2,11 +2,11 @@
 
 My name is Lucas Lemos, a brazilian information technology student.
 
-* <b>That's my GitHub Profile and you mainly find here my projects for my graduation into Information Technology at the Pontifical Catholic University of Minas Gerais;</b>
+* <b>That's my GitHub Profile and you mostly find here my projects for my graduation into Information Technology at the Pontifical Catholic University of Minas Gerais;</b>
 * Currently, I work as an Intern at American Tower do Brasil doing business analysis and conduzing process excellence;
 * I'm a cybersecurity enthuasiast;
 * I like videogames;
-* I have a technician formation into Information Technology;
+* I have a technician formation into Information Technology.
 
 ## You may find me in:
 <a href="https://www.linkedin.com/in/lucaslpinheiro" target="_blank">
